@@ -14,5 +14,11 @@ public class Main {
         cat.name="fistik";
         cat.size="big";
 
+        cat.character="angry";
+        cat.home="istanbul";
+        cat.number=5;
+
+
+
     }
 }
