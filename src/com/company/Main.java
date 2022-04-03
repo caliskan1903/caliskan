@@ -9,5 +9,10 @@ public class Main {
         dog.size="small";
         dog.name="sonia";
 
+        Cat cat=new Cat();
+        cat.color="black";
+        cat.name="fistik";
+        cat.size="big";
+
     }
 }
